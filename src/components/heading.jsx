@@ -2,12 +2,12 @@ const style = {
     h1: {
         
         fontSize: "2rem",
-        ...dims
+        //...dims
     },
     h2: {
         
         fontSize: "1rem",
-        ...dims
+       // ...dims
     }
 }
 /*export default function Heading(props) {
